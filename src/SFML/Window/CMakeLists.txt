@@ -31,6 +31,8 @@ set(SRC
     ${INCROOT}/VideoMode.h
     ${SRCROOT}/Window.cpp
     ${SRCROOT}/WindowStruct.h
+    ${SRCROOT}/WindowBase.cpp
+    ${SRCROOT}/WindowBaseStruct.h
     ${INCROOT}/Window.h
     ${INCROOT}/WindowHandle.h
 )
