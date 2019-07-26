@@ -42,6 +42,7 @@
 #include <SFML/Window/Touch.h>
 #include <SFML/Window/VideoMode.h>
 #include <SFML/Window/Window.h>
+#include <SFML/Window/WindowBase.h>
 
 
 #endif // SFML_SFML_WINDOW_H
